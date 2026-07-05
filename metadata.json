@@ -1,0 +1,6 @@
+{
+  "name": "AI Monetization Guide & Planner",
+  "description": "An interactive, full-stack guide and planner to discover monetization pathways, calculate ROI, and generate customized business blueprints using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
